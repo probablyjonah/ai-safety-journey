@@ -18,6 +18,8 @@
 ### Week 1
 - **hello.py** - First Python program
 - **ai_safety_journal.py** - Learning journal with automatic entry numbering and monthly file organization
+- **bias_detector.py** - Simple tool to flag potentially biased language
+- **ai_interaction_safety_logger.py** - Rudimentary tool that logs AI interactions and flags potential safety/welfare concerns
 
 ## Learning Resources
 - Automate the Boring Stuff with Python (in progress)
