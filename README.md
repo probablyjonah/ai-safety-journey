@@ -25,7 +25,7 @@
 - LessWrong community engagement
 
 ## Connect
-- LessWrong: (will update after introduction post)
+- LessWrong: https://www.lesswrong.com/users/probablyjonah
 - Location: Bremerton, WA
 - Target: Anthropic Model Welfare Team (March 2028)
 
